@@ -1,5 +1,9 @@
-import { Globe} from "@/components/ui/globe";
 
-export default function Home() {
-  return <Globe />
+
+import React from 'react'
+
+export default function page() {
+  return (
+    <div>page</div>
+  )
 }

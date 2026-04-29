@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/marquee/page.jsx", "app/animated-beam/page.jsx", "components/SoftwareCycle.jsx"  ],
+, "app/marquee/page.jsx", "app/animated-beam/page.jsx", "components/SoftwareCycle.jsx", "components/SEOFunnelBlue.jsx"  ],
   "exclude": ["node_modules"]
 }
